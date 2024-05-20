@@ -56,7 +56,7 @@
     </nav>
 </footer>
 <footer style="text-align: center; padding: 3px; background-color: DarkSalmon; color: white;">
-    <p>Author: Failure Opee<br><a href="mailto:opee@workmail.com">johndoe@example.com</a></p>
+    <p>Author: Failure Opee<br><a href="mailto:opee@workmail.com">failure@opee.more-gese</a></p>
 </footer>
 
 
