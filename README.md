@@ -43,6 +43,9 @@
   <a href="https://store-opee.odoo.com/shop/women-handbag-5">Buy Now</a>
   <a href="https://store-opee.odoo.com/shop/women-handbag-5">Add to Cart</a>
 </div>
+<br>
+<br>
+<br>
 <img align="center" src="https://media.discordapp.net/attachments/951617301818540093/1242021973219999824/Add_a_subheading.png?ex=664c529a&is=664b011a&hm=8eabbd6890b680bce4508eb9dd61cbe5516a7bc820e1974288553fd024f5dba0&=&format=webp&quality=lossless&width=965&height=153" alt="footer-banner" width="original" height"original">
 <footer>
     <nav>
